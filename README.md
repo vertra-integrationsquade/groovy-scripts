@@ -1,7 +1,6 @@
 # groovy-scripts
 A repository of groovy scripts used on CPI.
-Nada melhor que ler o hello world do pródrio GIT para usá-lo:
-
+GIT hello world:
 
 https://guides.github.com/activities/hello-world/
 
